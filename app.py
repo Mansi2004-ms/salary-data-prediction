@@ -91,4 +91,4 @@ if st.button("Predict Salary"):
         st.metric("Estimated Salary", f"${prediction:,.2f}")
 
     except Exception as e:
-        st.error(f"Prediction error: {e}")
+      st.exception(e)
