@@ -1,2 +1,3 @@
 # salary-data-prediction
-It predict the salary using historical data
+The Salary Prediction Model is a Machine Learning project that estimates an individual's salary based on various input features such as years of experience, education level, job title, age, gender, and other relevant attributes. The model is trained on a structured salary dataset using supervised learning techniques and can predict salaries for new user inputs with high efficiency.
+This project demonstrates the complete machine learning pipeline, including data preprocessing, feature engineering, model training, evaluation, model serialization, and deployment using Streamlit.
